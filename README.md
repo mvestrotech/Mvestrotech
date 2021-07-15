@@ -1,7 +1,7 @@
 # Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mvestrotech&show_icons=true&count_private=true&theme=dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvestrotech&layout=compact&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvestrotech&layout=compact&langs_count=5&theme=dark)
 
 <h3>🔍 Contact :</h3>
 <p>
